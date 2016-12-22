@@ -32,7 +32,7 @@ it online in just a few clicks.
 Odoo Sales is integrated with major shipping services: UPS, Fedex, 
 USPS and more. The signed offer creates a delivery order automatically.
 
-That's it, I sucesfully sold my products in just a few clicks.
+That's it, I successfully sold my products in just a few clicks.
 
 Oh, I also have the transaction and communication history 
 at my fingertips. It's easy for every stakeholder to know 
@@ -46,7 +46,7 @@ to the transaction.
         
     - Click on opportunities, click on quotation
         
-    - Come back to customers (breadcrum)
+    - Come back to customers (breadcrumb)
      
     - Click on customer statement letter
 
